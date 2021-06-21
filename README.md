@@ -10,3 +10,4 @@ TEEKSK is making an anime database out of our favourite anime series. You'll be 
 - jojo's bizarre adventure
 - demon slayer
 - japan sinks 2020
+- saiki k
